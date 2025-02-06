@@ -1,2 +1,0 @@
-# naiprojekt
-do poprawy
